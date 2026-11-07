@@ -1,0 +1,4 @@
+interface:
+  display_name: "skill-mention"
+  short_description: "按稳定编号管理功能提示词与可选示例模板，支持链接目录、分类检索及逐项更新"
+  default_prompt: "请使用 $skill-mention 展示功能目录及提示词、示例和模板的链接。"
